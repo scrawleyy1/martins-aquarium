@@ -8,6 +8,10 @@
 const myName = "Brenda";
 let myFavoriteColor = "Yellow";
 
+export const getFish = () => {
+    return fishCollection
+}
+
 const fishCollection = [
     {
         name: "Bart",
