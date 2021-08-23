@@ -5,12 +5,11 @@
  *  fish to the collection.
  */
 
-const myName = "Brenda";
-let myFavoriteColor = "Yellow";
 
 export const getFish = () => {
     return fishCollection
 }
+
 
 const fishCollection = [
     {
